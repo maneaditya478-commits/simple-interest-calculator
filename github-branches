@@ -1,5 +1,7 @@
 $ git branch -a -v
-  bug-fix-typo                dc4f04e Fix documentation typo in README.md
-* main                        dc4f04e Fix documentation typo in README.md
-  remotes/origin/bug-fix-typo dc4f04e Fix documentation typo in README.md
-  remotes/origin/main         dc4f04e Fix documentation typo in README.md
+  bug-fix-revert                3bc4a3f Add required evidence files for Coursera assessment
+  bug-fix-typo                  dc4f04e Fix documentation typo in README.md
+* main                          3bc4a3f Add required evidence files for Coursera assessment
+  remotes/origin/bug-fix-revert 3bc4a3f Add required evidence files for Coursera assessment
+  remotes/origin/bug-fix-typo   dc4f04e Fix documentation typo in README.md
+  remotes/origin/main           3bc4a3f Add required evidence files for Coursera assessment
