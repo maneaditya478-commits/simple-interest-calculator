@@ -1,0 +1,18 @@
+$ curl -s https://api.github.com/repos/maneaditya478-commits/simple-interest-calculator
+{
+  "id": 1373545034,
+  "node_id": "R_kgDOUd6iSg",
+  "name": "simple-interest-calculator",
+  "full_name": "maneaditya478-commits/simple-interest-calculator",
+  "private": false,
+  "owner": {
+    "login": "maneaditya478-commits",
+    "id": 223984141,
+    "type": "User"
+  },
+  "html_url": "https://github.com/maneaditya478-commits/simple-interest-calculator",
+  "fork": false,
+  "url": "https://api.github.com/repos/maneaditya478-commits/simple-interest-calculator",
+  "default_branch": "main",
+  "visibility": "public"
+}

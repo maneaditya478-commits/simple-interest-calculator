@@ -1,0 +1,5 @@
+$ git branch -a -v
+  bug-fix-typo                dc4f04e Fix documentation typo in README.md
+* main                        dc4f04e Fix documentation typo in README.md
+  remotes/origin/bug-fix-typo dc4f04e Fix documentation typo in README.md
+  remotes/origin/main         dc4f04e Fix documentation typo in README.md
