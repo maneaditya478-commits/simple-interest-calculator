@@ -23,7 +23,7 @@ Where:
 
 ## Required Inputs
 
-To calculate the simple interest, the calculater requires three inputs:
+To calculate the simple interest, the calculator requires three inputs:
 1. **Principal Amount**: The initial sum of money.
 2. **Annual Rate of Interest**: Percentage rate per year.
 3. **Time Period**: Time duration in years.
